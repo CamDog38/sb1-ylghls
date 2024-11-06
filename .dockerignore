@@ -1,0 +1,32 @@
+# Dependencies
+node_modules
+npm-debug.log
+
+# Build output
+dist
+build
+
+# Version control
+.git
+.gitignore
+.github
+
+# Environment files
+.env
+.env.*
+
+# Development files
+README.md
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# Editor directories
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
